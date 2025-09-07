@@ -2,6 +2,9 @@
 
 一个基于LangChain和DeepSeek的智能Agent演示项目，集成了文本翻译、文件翻译和AI对话功能，提供命令行和Web界面两种使用方式。
 
+![image.png](https://fisherai-1312281807.cos.ap-guangzhou.myqcloud.com/20250907155652.png)
+
+
 ## ✨ 功能特性
 
 ### 🔧 核心功能
